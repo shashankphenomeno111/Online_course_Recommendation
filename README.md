@@ -1,10 +1,20 @@
 # 🎓 Course Recommendation System
 
-> AI-Powered Personalized Learning Recommendation Platform
+![Course Recommendation Banner](https://raw.githubusercontent.com/shashankphenomeno111/Online_course_Recommendation/main/banner.png)
 
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Hugging_Face-yellow)](https://huggingface.co/spaces/shashankphenomenon/course-recommendation-system)
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.40-red.svg)](https://streamlit.io)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-Latest-orange.svg)](https://scikit-learn.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.31-red.svg)](https://streamlit.io)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4-orange.svg)](https://scikit-learn.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+**AI-Powered Personalized Learning Recommendation Platform**
+
+[Live Demo](https://huggingface.co/spaces/shashankphenomenon/course-recommendation-system) • [Documentation](#-documentation) • [Features](#-key-features) • [Models](#-models)
+
+</div>
 
 ---
 
@@ -16,6 +26,14 @@ A comprehensive course recommendation system that analyzes **100,000 user intera
 - 🎨 **Professional Dashboard** with 6 recommendation methods
 - 📈 **Comprehensive Evaluation** using 5 different metrics
 - 🚀 **Production-Ready Deployment** with Streamlit
+
+---
+
+## 🎬 Live Demo
+
+🔗 **Try it now:** [Course Recommendation System - Live Dashboard](https://huggingface.co/spaces/shashankphenomenon/course-recommendation-system)
+
+Experience the interactive dashboard with real-time recommendations, visualizations, and model comparisons!
 
 ---
 
@@ -235,18 +253,25 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+**Shashank**
+
+- GitHub: [@shashankphenomeno111](https://github.com/shashankphenomeno111)
+- LinkedIn: [Shashank - Data Scientist](https://www.linkedin.com/in/shashankdatascientist)
 
 ---
 
 ## 🙏 Acknowledgments
 
-- Dataset source: [Specify if applicable]
-- Inspired by recommendation systems at Netflix, Amazon, YouTube
 - Built as part of portfolio development
+- Inspired by recommendation systems at Netflix, Amazon, YouTube
+- Powered by scikit-learn and Streamlit
 
 ---
 
+<div align="center">
+
 ⭐ **Star this repository if you found it helpful!**
+
+Made with ❤️ using Machine Learning for personalized education
+
+</div>
